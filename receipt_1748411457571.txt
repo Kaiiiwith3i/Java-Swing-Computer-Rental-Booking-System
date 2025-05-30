@@ -1,0 +1,8 @@
+----- RECEIPT -----
+Customer: kai
+Computer: PC-1
+Booked Date: 2025-05-28
+Time Slot: 3 PM to 4 PM
+Amount Paid: ₱40.00
+Date Booked: 2025-05-28 13:50:57
+-------------------
